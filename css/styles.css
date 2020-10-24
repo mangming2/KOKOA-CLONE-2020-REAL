@@ -8,6 +8,7 @@
 @import "screens/find.css";
 @import "screens/more.css";
 @import "screens/settings.css";
+@import "screens/chat.css";
 
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
@@ -24,6 +25,7 @@ body {
   .main-screen{
       padding: 0px var(--horizontal-space);
   }
+  a{text-decoration: none;}
 /*
 .welcome-header{
     margin: 90px 0px;

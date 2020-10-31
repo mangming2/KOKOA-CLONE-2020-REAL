@@ -77,6 +77,10 @@
     display: flex;
     margin-bottom: 25px;
 }
+.message__info .emoticon{
+    width: 100px;
+    height: 100px;
+}
 
 .message-row img{
     width: 50px;
